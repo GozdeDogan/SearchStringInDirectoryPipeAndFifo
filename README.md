@@ -1,0 +1,1 @@
+SearchStringInDirectoryPipeAndFifo
